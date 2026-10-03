@@ -1,0 +1,6 @@
+import GraphicalAllocation.Projections.EndpointChain
+
+#print axioms GraphicalAllocation.Projections.product_re_inner_le
+#print axioms GraphicalAllocation.Projections.cell_hilbert_chain_displacement_le
+#print axioms GraphicalAllocation.Projections.local_projection_energy_le
+#print axioms GraphicalAllocation.Projections.local_endpoint_displacement_le

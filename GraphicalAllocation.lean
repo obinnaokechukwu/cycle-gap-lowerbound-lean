@@ -1,0 +1,53 @@
+import GraphicalAllocation.Palm.Infinite.ConditioningTheorem
+import GraphicalAllocation.Palm.ActualLink
+import GraphicalAllocation.Rules.Expectation
+import GraphicalAllocation.Projections.EndpointChain
+import GraphicalAllocation.Projections.KernelChain
+import GraphicalAllocation.Palm.SelectedPath
+import GraphicalAllocation.Process.FinitePaths
+import GraphicalAllocation.Process.FiniteAllocation
+import GraphicalAllocation.Process.LawExpectation
+import GraphicalAllocation.Process.Phase
+import GraphicalAllocation.Process.Normalized.State
+import GraphicalAllocation.Process.Continuous.AllocationVariance
+import GraphicalAllocation.Transport.DiscreteLaw
+import GraphicalAllocation.Transport.ContinuousResponse
+import GraphicalAllocation.Diffusion.EmbeddingTail
+import GraphicalAllocation.Geometry.CycleMidpoint
+import GraphicalAllocation.Geometry.Products
+import GraphicalAllocation.Geometry.TorusIntegral
+import GraphicalAllocation.Applications.Cycle
+import GraphicalAllocation.Applications.Graphs.Specializations
+import GraphicalAllocation.Transport.GapCorollary
+import GraphicalAllocation.Diffusion.OriginalTag
+import GraphicalAllocation.Process.Normalized.Kernel
+import GraphicalAllocation.Process.Reorientation
+import GraphicalAllocation.Process.Generator
+import GraphicalAllocation.Examples.Greedy
+import GraphicalAllocation.Palm.Infinite.AllocationPath
+import GraphicalAllocation.Palm.Infinite.DrivenTagLaw
+
+import GraphicalAllocation.Probability.BernsteinObservables
+import GraphicalAllocation.Probability.FiniteConcentration
+import GraphicalAllocation.Probability.PoissonMoments
+import GraphicalAllocation.Process.PoissonUpper
+import GraphicalAllocation.Smoothed.Law
+import GraphicalAllocation.Spectral.GreenMatrix
+import GraphicalAllocation.Spectral.Cycle
+import GraphicalAllocation.Spectral.TorusRadius
+import GraphicalAllocation.Gaussian.Allocation
+import GraphicalAllocation.Universal.SquareTorus
+import GraphicalAllocation.Applications.Graphs.Combined
+
+import GraphicalAllocation.Smoothed.Cycle
+
+import GraphicalAllocation.Smoothed.Threshold
+import GraphicalAllocation.Smoothed.PhysicalHorizon
+import GraphicalAllocation.Smoothed.Torus
+
+/-!
+# Local decisions and diffusive influence
+
+This root imports the original lower bounds and the revised concentration,
+strategy-independent bounds, smoothed allocation, and Gaussian-field modules.
+-/

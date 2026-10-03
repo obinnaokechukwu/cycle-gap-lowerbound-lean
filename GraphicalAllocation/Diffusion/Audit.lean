@@ -1,0 +1,13 @@
+import GraphicalAllocation.Diffusion.EmbeddingTail
+
+#print axioms GraphicalAllocation.Diffusion.endpointJoint_observable
+#print axioms GraphicalAllocation.Diffusion.allocation_hilbert_displacement_events
+#print axioms GraphicalAllocation.Diffusion.allocation_hilbert_displacement_physical
+#print axioms GraphicalAllocation.Diffusion.allocation_cycle_displacement_events
+#print axioms GraphicalAllocation.Diffusion.allocation_cycle_displacement_physical
+#print axioms GraphicalAllocation.Diffusion.allocation_cycle_tail_events
+#print axioms GraphicalAllocation.Diffusion.allocation_cycle_tail_physical
+#print axioms GraphicalAllocation.Diffusion.poisson_natCast_integral
+
+#print axioms GraphicalAllocation.Diffusion.allocation_embedding_tail_events
+#print axioms GraphicalAllocation.Diffusion.allocation_embedding_tail_physical
